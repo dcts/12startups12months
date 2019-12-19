@@ -9,5 +9,5 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
 - **SwarmBrush**: Tool (maybe extension to photoshop) that lets you draw using swarm algorithms to enhace creativity
 - **Encrypted Database**: Database service that lets you store your data. But we ensure that its encrypted. If you loose your keys, your data is not readible.
-- **Free Version of Tetris**: Tetris experience (?) clone that copies the atmosphere. Playable on the browser for free. Controll with iphone?
+- **OpenSource Tetris Effect Clone**: With custom music from local artists (to have similar atmosphere). Playable in the browser for free. Controll with iphone or keyboard.
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
