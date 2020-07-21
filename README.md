@@ -11,3 +11,6 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **Encrypted Database**: Database service that lets you store your data. But we ensure that its encrypted. If you loose your keys, your data is not readible.
 - **OpenSource Tetris Effect Clone**: With custom music from local artists (to have similar atmosphere). Playable in the browser for free. Controll with iphone or keyboard.
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
+- **Holo Ghosts**: CryptoKitties clone on Holochain.
+- **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed.
+- **Podcastify**: Service for youtubers that automatically converts their videos and uploads them to Spotify!
