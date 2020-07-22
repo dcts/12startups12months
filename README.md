@@ -14,3 +14,4 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **Holo Ghosts**: CryptoKitties clone on Holochain.
 - **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed.
 - **Podcastify**: Service for youtubers that automatically converts their videos and uploads them to Spotify!
+- **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings.
