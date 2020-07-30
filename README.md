@@ -17,3 +17,4 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings.
 - **MobRun**: For lonely jogger that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together.
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink?
+- **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
