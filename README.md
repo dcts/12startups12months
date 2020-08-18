@@ -18,3 +18,5 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **MobRun**: For lonely jogger that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together.
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink?
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
+- **Fildrop.com**: A website that lets you drop anything from your computer to your phone (Text, Links, Media). Generates QR code to scan. Stores the data on the server for a short period of time. Domain already in use.
+
