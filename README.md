@@ -19,4 +19,7 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink?
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
 - **Fildrop.com**: A website that lets you drop anything from your computer to your phone (Text, Links, Media). Generates QR code to scan. Stores the data on the server for a short period of time. Domain already in use.
+- **ubuntu emoji picker electron app**: as sideproject. Is it possible to write a emoji picker that opens where the mouse is and writes the emoji to the clipboard?
+- **ubuntu color picker**: same question as with the emoji picker. Can we write a native desktop app that accesses the screens information?
+
 
