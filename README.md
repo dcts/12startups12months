@@ -23,3 +23,4 @@ Repo to brainstorm potential products to build as a challenge. Repo just cointai
 - **ubuntu color picker**: same question as with the emoji picker. Can we write a native desktop app that accesses the screens information?
 - **launch your idea tracker**: a tool that keeps track of all your projects that you launch and all plattform where to launch in one place. Also generate metrics for the projects to measure success. Maybe code first to use for all other projects?
 - **keybr for audible podcasts**: increase productivity while typing your favorite book. That way you learn to type really fast and also learn interesting stuff. Monetization through e book purchases? MVP with public articles that you can write or interviews with inspirational people.
+- **Code 2 Poster**: link your github repo, we make a poster out of it. Similar to Bitcoin Whitepaper Poster.
