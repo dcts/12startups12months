@@ -1,5 +1,5 @@
 # 12 startups in 12 months
-Repo to brainstorm potential products to build as a challenge. Repo just cointains Notes.
+Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
 ## Ideas
 - **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
