@@ -1,5 +1,5 @@
 # 12 startups in 12 months
-Repo to brainstorm potential products to build as a challenge. Repo just cointains Notes.
+Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
 ## Ideas
 - **ChooseMyStartup.com**: plattform that lets you publish all your ideas and anyone can rate, comment them. You can flag them as well. To find out what great ideas are. Meta. Maybe only send out invitations? This allows you also to phrase your ideas and formulate them. Spend some time on evaluating them before presenting them to friends or strangers.
