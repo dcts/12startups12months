@@ -22,6 +22,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **ubuntu color picker**: same question as with the emoji picker. Can we write a native desktop app that accesses the screens information?
 - **ubuntu emoji picker electron app**: as sideproject. Is it possible to write a emoji picker that opens where the mouse is and writes the emoji to the clipboard?
 # TECHNICALLY DIFFICULT
+- **NFT Framework**: NFT token framework that lets people buy "stocks" of a private person (content creator) or band etc. The address holding the NFT token can then sign a message and get access to specials offered by that band. Usecase: a band sells 10 NFTs that allow the holder to always get into a live gig. A hype could build up whats the next big band and people could speculate on the future success of bands.
 - **Holo Ghosts**: CryptoKitties clone on Holochain.
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink? small percentage of all locked up funds go to the developer (me).
 # CREATIVITY / ARTSY
