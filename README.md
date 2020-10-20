@@ -11,7 +11,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
 - **TypeWriter App**: keybr for audible or podcasts. increase productivity while typing your favorite book. That way you learn to type really fast and also learn interesting stuff. Monetization through e book purchases? MVP with public articles that you can write or interviews with inspirational people.
 - **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
-- **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed. Free youtube hack.
+- **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed. Free youtube hack. Medium article on how to [d]ownload videos from youtube](https://medium.com/javascript-in-plain-english/make-your-own-youtube-downloader-626133572429).
 - **MobRun**: For lonely jogger that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together.
 # GAMES
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
