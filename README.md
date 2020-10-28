@@ -2,7 +2,7 @@
 Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
 ## Ideas
-- **ChooseMyStartup.com**: plattform that lets you publish all your ideas and anyone can rate, comment them. You can flag them as well. To find out what great ideas are. Meta. Maybe only send out invitations? This allows you also to phrase your ideas and formulate them. Spend some time on evaluating them before presenting them to friends or strangers.
+- **ChooseMyStartup.com**: plattform that is a notebook for all your ideas and anyone can rate and comment them and signup if they would use it. Login through magic link. You can tag them. To find out what great ideas are. This allows you also to phrase your ideas and formulate them. Spend some time on evaluating them before presenting them to friends or strangers. PRO Features: add custom link: ChooseMyStartup.com/thomas + mobile version + Private Ideas.
 - **launch your idea tracker**: Tool that aggregates all plattforms to promote a product launch (e.g. producthunt, sideproject.org and so on) and makes it easier to keep track of the process. a tool that keeps track of all your projects that you launch and all plattform where to launch in one place. Also generate metrics for the projects to measure success. Maybe code first to use for all other projects? Use the development cycle by 12 startups in 12 months guy
 - **Encrypted Database**: Database as a service that lets you store your data. But we ensure that its encrypted. If you loose your keys, your data is not readible.
 - **Podcastify**: Service for youtubers that automatically converts their videos and uploads them to Spotify!
