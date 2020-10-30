@@ -7,6 +7,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Encrypted Database**: Database as a service that lets you store your data. But we ensure that its encrypted. If you loose your keys, your data is not readible.
 - **Podcastify**: Service for youtubers that automatically converts their videos and uploads them to Spotify!
 - **CalledIt**: Service that lets you track predictions. (Idea by AllanHolmes how to implement MVP: notion doc that gets updated manually and people can submit their calls). Do MVP for "crypto youtubers predictions".
+
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
@@ -14,9 +15,12 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
 - **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed. Free youtube hack. Medium article on how to [d]ownload videos from youtube](https://medium.com/javascript-in-plain-english/make-your-own-youtube-downloader-626133572429).
 - **MobRun**: For lonely joggers that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together. Connecting on the app through real time contact only. OR ANOTHER APPROACH: matches runners that run in the same area and similar pace with each other. Tinder for runners. Upload your data from runtastic or nike+ and get recommendations. Stats are most important.
+
 # GAMES
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
 - **OpenSource Tetris Effect Clone**: With custom music from local artists (to have similar atmosphere). Playable in the browser for free. Controll with iphone or keyboard.
+- **Cooperatris**: Tetris 2P multiplayer game where 2 player work together (blocks meet in the middle). Mic connection to coordinate and cooperate. Main reserach intent: is is possible to build a game where the only way of winning is cooperation without harming others.
+
 # SHOWCASE PRODUCTS
 - **Filedrop.com**: A website that lets you drop anything from your computer to your phone (Text, Links, Media). Generates QR code to scan. Stores the data on the server for a short period of time. Domain already in use.
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
