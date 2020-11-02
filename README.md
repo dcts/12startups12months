@@ -7,6 +7,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Encrypted Database**: Database as a service that lets you store your data. But we ensure that its encrypted. If you loose your keys, your data is not readible.
 - **Podcastify**: Service for youtubers that automatically converts their videos and uploads them to Spotify!
 - **CalledIt**: Service that lets you track predictions. (Idea by AllanHolmes how to implement MVP: notion doc that gets updated manually and people can submit their calls). Do MVP for "crypto youtubers predictions".
+- **LetBezozPay**: Go to this site before buying stuff on amazon, and we will return all amazon affiliate income to a good cause. Idea by David. Nonprofit, simple to set up and get running.
 
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
