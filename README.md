@@ -16,6 +16,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
 - **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed. Free youtube hack. Medium article on how to [d]ownload videos from youtube](https://medium.com/javascript-in-plain-english/make-your-own-youtube-downloader-626133572429).
 - **MobRun**: For lonely joggers that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together. Connecting on the app through real time contact only. OR ANOTHER APPROACH: matches runners that run in the same area and similar pace with each other. Tinder for runners. Upload your data from runtastic or nike+ and get recommendations. Stats are most important.
+- **mediumforcoders.com**: Simple clone of medium.com that supports codeblocks with syntax highlighting.
 
 # GAMES
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
