@@ -6,6 +6,7 @@
   - cocktail app
   - generate your own bitcoin wallet generator: https://www.freecodecamp.org/news/how-to-generate-your-very-own-bitcoin-private-key-7ad0f4936e6c/
   - tic tac toe game + create AI that plays against itself and improves over time
+  - spying form => collects all keydata during typing and sends the final text plus all the keystrokes. So you can visualize what the person typed.
 
 
 
