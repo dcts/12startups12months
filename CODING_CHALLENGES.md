@@ -18,3 +18,4 @@
   => public API that §
 - rails authentizity token hacking
 - reverse enveneer instagram handle checker
+- chatbot with GPT3 API
