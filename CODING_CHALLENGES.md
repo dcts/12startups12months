@@ -19,3 +19,6 @@
 - rails authentizity token hacking
 - reverse enveneer instagram handle checker
 - chatbot with GPT3 API
+- CLI program that uploades/updates a single file to a given github repo
+
+
