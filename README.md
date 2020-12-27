@@ -9,6 +9,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **CalledIt**: Service that lets you track predictions. (Idea by AllanHolmes how to implement MVP: notion doc that gets updated manually and people can submit their calls). Do MVP for "crypto youtubers predictions".
 - **LetBezozPay**: Go to this site before buying stuff on amazon, and we will return all amazon affiliate income to a good cause. Idea by David. Nonprofit, simple to set up and get running.
 - **BurnBitcoin**: build an app that allows bitcoin holders to burn bitcoin and get a proof of burn (rewarded with a cryptogrtaphical proof and maybe a badge or similar? Marketing: the more btc we burn, the higher the price gets. A small percentage of the burn is send to developer address? 1%. Donate bitcoin to the community.
+- **Time Visualizer Library**: HTML / CSS library to display time across different countries. when you hover over it you can see your current time + time remaining timer.
 
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
