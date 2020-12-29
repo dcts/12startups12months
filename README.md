@@ -44,3 +44,6 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings.
 # HACKATHONS
 - **PrivacyNow**: setup anonymity on the internet -> organize a hackathon. How to delete all data and create pseudonyms. + prove to people who I am by providing a signed message with the private key of the publically availible key on my pseudonym website.
+# CRYPTO RELATED
+- **Satoshis Casino**: randomly generate a private seed and check on the blockchain if the address has funds. Allow users to input their birthday, their favorite picture or book or just a single number. Doesn't really matter. Anything can be hashed.
+- **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
