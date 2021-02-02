@@ -12,6 +12,9 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Time Visualizer Library**: HTML / CSS library to display time across different countries. when you hover over it you can see your current time + time remaining timer.
 - **CoinMarkeCapInstitutions**: https://youtu.be/_smIE-yixDg?t=345 Coinmarketcap with all coins that institutional investors can see.
 
+# Silly
+- **cameo for celebrity doubles**: you would live a personal shoutout from a celebrity but cameo is too expensive? Worry not, we have top class celebrity doubles that are a quarter of the price that cameo.
+
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
@@ -48,3 +51,4 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 # CRYPTO RELATED
 - **Satoshis Casino**: randomly generate a private seed and check on the blockchain if the address has funds. Allow users to input their birthday, their favorite picture or book or just a single number. Doesn't really matter. Anything can be hashed.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
+- **altcoinshills.com**: evaluate all crypto predictions made by youtubers and create a ranking.
