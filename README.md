@@ -51,4 +51,5 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 # CRYPTO RELATED
 - **Satoshis Casino**: randomly generate a private seed and check on the blockchain if the address has funds. Allow users to input their birthday, their favorite picture or book or just a single number. Doesn't really matter. Anything can be hashed.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
-- **altcoinshills.com**: evaluate all crypto predictions made by youtubers and create a ranking.
+- **shillcoin.info**: evaluate all crypto predictions made by youtubers and create a ranking.
+- **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
