@@ -51,6 +51,10 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Facebook Data Leak Checker**: find out who of your contacts is affected by the facebook data leak and inform them. Because facebook won't inform its users.
 - **PrivacyNow**: setup anonymity on the internet -> organize a hackathon. How to delete all data and create pseudonyms. + prove to people who I am by providing a signed message with the private key of the publically availible key on my pseudonym website.
 # CRYPTO RELATED
+- **bitcoin proof ownership proof**: A service that allows people to sign a message to proof that they own the private key of a given bitcoin address, effectively prooving that they own the bitcoin stored in that address.
+  - 2 sided marketplace: Validate Proof / Generate Proof
+  - Search Keywords in google: digital+signature+bitcoin, proof+ownership+of+bitcoin+address, example: https://news.bitcoin.com/how-to-prove-ownership-with-a-bitcoin-cash-address-and-digital-signature/#:~:text=The%20Bitcoin%20Cash%20Blockchain%20and%20Notarized%20Proof&text=With%20a%20private%20key%2C%20an,proves%20ownership%20of%20the%20address.,
+
 - **Satoshis Casino**: randomly generate a private seed and check on the blockchain if the address has funds. Allow users to input their birthday, their favorite picture or book or just a single number. Doesn't really matter. Anything can be hashed.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
 - **shillcoin.info**: evaluate all crypto predictions made by youtubers and create a ranking.
