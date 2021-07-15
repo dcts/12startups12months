@@ -26,6 +26,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **mediumforcoders.com**: Simple clone of medium.com that supports codeblocks with syntax highlighting.
 
 # GAMES
+- **Split or Steal interactive game**: you get to watch a 1 min video about people playing the split or steal game, then you can guess who is gonna choose splot and who steal. you get points if you can guess correctly. Basically a game to test your human behaviour prediction qualities ("Menschenkentnisse"). Example clip: https://www.youtube.com/watch?v=jXYxAY1CkBQ
 - **Multiplayer Games**: webbrowser session -> lets people play with their phones! (tetris / asteroids / pong)
 - **OpenSource Tetris Effect Clone**: With custom music from local artists (to have similar atmosphere). Playable in the browser for free. Controll with iphone or keyboard.
 - **Cooperatris**: Tetris 2P multiplayer game where 2 player work together (blocks meet in the middle). Mic connection to coordinate and cooperate. Main reserach intent: is is possible to build a game where the only way of winning is cooperation without harming others.
