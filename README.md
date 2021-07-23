@@ -62,3 +62,15 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
 - **shillcoin.info**: evaluate all crypto predictions made by youtubers and create a ranking.
 - **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
+
+# Code related
+- **GEM & NodeJS package**: ISOWeek NPM package and ruby GEM (add with testing)
+```js
+ISOWeek.get(new Date()) // =>
+ISOWeek.thisWeek() // =>
+ISOWeek.lastWeek() // =>
+
+ISOWeek.range(weekId) // =>
+ISOWeek.startDate(weekId) // =>
+ISOWeek.endDate(weekId) // =>
+```
