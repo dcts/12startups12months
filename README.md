@@ -74,3 +74,6 @@ ISOWeek.range(weekId) // =>
 ISOWeek.startDate(weekId) // =>
 ISOWeek.endDate(weekId) // =>
 ```
+
+# OTHER
+- **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
