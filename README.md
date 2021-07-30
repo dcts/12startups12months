@@ -63,6 +63,9 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - ✅**shillcoin.info**: LAUNCHED! check out => https://shillcoin.info . Evaluate all crypto predictions made by youtubers and create a ranking.
 - **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
 
+# Business Idea
+- **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
+
 # Code related
 - **GEM & NodeJS package**: ISOWeek NPM package and ruby GEM (add with testing)
 ```js
