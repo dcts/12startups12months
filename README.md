@@ -53,6 +53,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 # Privacy
 - **Facebook Data Leak Checker**: find out who of your contacts is affected by the facebook data leak and inform them. Because facebook won't inform its users.
 - **PrivacyNow**: setup anonymity on the internet -> organize a hackathon. How to delete all data and create pseudonyms. + prove to people who I am by providing a signed message with the private key of the publically availible key on my pseudonym website.
+- **GoodAdvertise**: Advertising works by repetition. But the advertiser's interests are not aligned with the user being served the adds. Imagine what positive impact one could have when you would get advertisment for stuff that is actually beneficial to you instead of random stuff corporations want to sell you in order to maximize profits. Example: Imagine how exciting it would be to get adds that show how running or meditation is beneficial to your health. And you get those adds all the time. This would rewire your brain for new patterns and would truly benefit the person seeing the add. GoodAdvertise is a service that plays you randomly adds that you yourself create (shold be a google extension?)
 # CRYPTO RELATED
 - **bitcoin proof ownership proof**: A service that allows people to sign a message to proof that they own the private key of a given bitcoin address, effectively prooving that they own the bitcoin stored in that address.
   - 2 sided marketplace: Validate Proof / Generate Proof
