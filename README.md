@@ -63,6 +63,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
 - ✅**shillcoin.info**: LAUNCHED! check out => https://shillcoin.info . Evaluate all crypto predictions made by youtubers and create a ranking.
 - **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
+- **nftfloorprice**: Utility that scrapes floor prices from opensea every 5 mins. Also a portfolio tracker that tracks your NFTs and displays the value of your portfolio.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
