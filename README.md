@@ -65,6 +65,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
 - **nftfloorprice**: Utility that scrapes floor prices from opensea every 5 mins. Also a portfolio tracker that tracks your NFTs and displays the value of your portfolio.
 - **NUMBERSNFTS**: 10'000 unique NFTs, each one is a number in the range of 0 to 999. Most of them have blue background with a white Number (in painting style). Some special Numbers are more rare (e.g. 0-10, 1000, 9999 etc). Every number is also a utility, you can set the content of a 100kx100x pixel grid on numbersnft.com. "free" advertising. Similar to the idea of one guy that sold pixels on his website.
+- **setupyourholoport**: dictionary for all ressources to setup your holoport, since they are distributed all around the web. Start with notion page.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
