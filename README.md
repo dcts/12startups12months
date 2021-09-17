@@ -16,6 +16,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 # Silly
 - **cameo for celebrity doubles**: you would live a personal shoutout from a celebrity but cameo is too expensive? Worry not, we have top class celebrity doubles that are a quarter of the price that cameo.
+- **publish your netflix series**: a fake neftlix website where you can upload your own videos and descriptions and share a public link with ur friends, so it looks like your fake content is an actual netflix series. To use as a joke only.
 
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming)
