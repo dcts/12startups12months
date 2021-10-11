@@ -60,7 +60,6 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **bitcoin proof ownership proof**: A service that allows people to sign a message to proof that they own the private key of a given bitcoin address, effectively prooving that they own the bitcoin stored in that address.
   - 2 sided marketplace: Validate Proof / Generate Proof
   - Search Keywords in google: digital+signature+bitcoin, proof+ownership+of+bitcoin+address, example: https://news.bitcoin.com/how-to-prove-ownership-with-a-bitcoin-cash-address-and-digital-signature/#:~:text=The%20Bitcoin%20Cash%20Blockchain%20and%20Notarized%20Proof&text=With%20a%20private%20key%2C%20an,proves%20ownership%20of%20the%20address.,
-
 - **Satoshis Casino**: randomly generate a private seed and check on the blockchain if the address has funds. Allow users to input their birthday, their favorite picture or book or just a single number. Doesn't really matter. Anything can be hashed.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
 - ✅**shillcoin.info**: LAUNCHED! check out => https://shillcoin.info . Evaluate all crypto predictions made by youtubers and create a ranking.
@@ -68,6 +67,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **nftfloorprice**: Utility that scrapes floor prices from opensea every 5 mins. Also a portfolio tracker that tracks your NFTs and displays the value of your portfolio.
 - **NUMBERSNFTS**: 10'000 unique NFTs, each one is a number in the range of 0 to 999. Most of them have blue background with a white Number (in painting style). Some special Numbers are more rare (e.g. 0-10, 1000, 9999 etc). Every number is also a utility, you can set the content of a 100kx100x pixel grid on numbersnft.com. "free" advertising. Similar to the idea of one guy that sold pixels on his website.
 - **setupyourholoport**: dictionary for all ressources to setup your holoport, since they are distributed all around the web. Start with notion page.
+- **nft galery**: website builder to create your own NFT galery. Verify with metamask. Chose different templates. Maybe a plugin for SANDBOX to create your own SANDBOX galery (if that is even possible)?
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
