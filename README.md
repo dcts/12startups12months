@@ -27,6 +27,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **MobRun**: For lonely joggers that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together. Connecting on the app through real time contact only. OR ANOTHER APPROACH: matches runners that run in the same area and similar pace with each other. Tinder for runners. Upload your data from runtastic or nike+ and get recommendations. Stats are most important.
 - **mediumforcoders.com**: Simple clone of medium.com that supports codeblocks with syntax highlighting.
 - **Only HTML CSS Form Creator Tool**: build the best too to create a form by only using HTML and CSS. Multiple layers, first pick layout and dimensions, then pick the components. Then mpdify functionality (autocomplete, password, textfield vs textarea etc, at the end you can chose from a community driven pool of stylings).
+- **BannerAPI**: create your banner on the fly with an API like this: bannerapi.com/?text=hello world&color=red&dim=200x200&theme=x => that automatically generates a banner image OR a website that displays the banner
 
 # GAMES
 - **Split or Steal interactive game**: you get to watch a 1 min video about people playing the split or steal game, then you can guess who is gonna choose splot and who steal. you get points if you can guess correctly. Basically a game to test your human behaviour prediction qualities ("Menschenkentnisse"). Example clip: https://www.youtube.com/watch?v=jXYxAY1CkBQ
