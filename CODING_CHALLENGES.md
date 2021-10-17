@@ -8,6 +8,7 @@
   - tic tac toe game + create AI that plays against itself and improves over time
   - spying form => collects all keydata during typing and sends the final text plus all the keystrokes. So you can visualize what the person typed.
 
+- build an API and sell access to it: https://www.youtube.com/watch?v=GK4Pl-GmPHk
 
 
 # Tasks
