@@ -87,5 +87,7 @@ ISOWeek.startDate(weekId) // =>
 ISOWeek.endDate(weekId) // =>
 ```
 
-# OTHER
+# OTHER EXPLORATIONS
 - **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
+- **design month**: UX / UI, learn Figma.
+- **blockchain month**: Solidity, Rust, Holochain
