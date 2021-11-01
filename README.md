@@ -74,6 +74,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
 
 # Code related
+- **Coding Notes website**: a framework to save coding notes. Features: Indexable (Searchable), Possibility to add SEO, view single page standalone. To give value back to community. For example practical documentation of mapkit JS examples (really bad documented and community is closed on apple developer portal).
 - **target=_blank** vulnerability showcase / demo site. Add instructions on how to expose yourself to this vulnerability so people can test it out.
 - **GEM & NodeJS package**: ISOWeek NPM package and ruby GEM (add with testing)
 ```js
