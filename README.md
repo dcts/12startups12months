@@ -69,6 +69,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **NUMBERSNFTS**: 10'000 unique NFTs, each one is a number in the range of 0 to 999. Most of them have blue background with a white Number (in painting style). Some special Numbers are more rare (e.g. 0-10, 1000, 9999 etc). Every number is also a utility, you can set the content of a 100kx100x pixel grid on numbersnft.com. "free" advertising. Similar to the idea of one guy that sold pixels on his website.
 - **setupyourholoport**: dictionary for all ressources to setup your holoport, since they are distributed all around the web. Start with notion page.
 - **nft galery**: website builder to create your own NFT galery. Verify with metamask. Chose different templates. Maybe a plugin for SANDBOX to create your own SANDBOX galery (if that is even possible)?
+- **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
