@@ -70,6 +70,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **setupyourholoport**: dictionary for all ressources to setup your holoport, since they are distributed all around the web. Start with notion page.
 - **nft galery**: website builder to create your own NFT galery. Verify with metamask. Chose different templates. Maybe a plugin for SANDBOX to create your own SANDBOX galery (if that is even possible)?
 - **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
+- **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shitting them down.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
