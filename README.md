@@ -48,6 +48,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 # CREATIVITY / ARTSY
 - **Code 2 Poster**: link your github repo, we make a poster out of it. Similar to Bitcoin Whitepaper Poster.
 - **SwarmBrush**: Tool (maybe extension to photoshop) that lets you draw using swarm algorithms to enhace creativity
+- **NFT ticket art show**: sell tickets as nfts, and each NFT is a playable character in an immersive VR experience. The game is backed by some ethereum so the winner gets a price.
 # EXTENSIONS
 - **Scam Comment Remover**: flags youtube comments of poeple having same name than the creator, because they are often impersonated.
 - **Comment Wall**: browser extension that lets you post comments on any website. All comments are public and users can upvote/downvote comments. Think of it as a reddit thread for every single webpage. To consume content and for private notes you do not need to pay, but if you want to publically post stuff you need to pay a fee on 10$ to prevent bot armies.
