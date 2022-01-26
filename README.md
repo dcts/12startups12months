@@ -65,14 +65,15 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **thebitcoinpresentation.com**: a portable presentation to explain bitcoin (in english or german) to introduce bitcoin to new people. Scan to control from phone (with websockets).
 - ✅**shillcoin.info**: LAUNCHED! check out => https://shillcoin.info . Evaluate all crypto predictions made by youtubers and create a ranking.
 - **private-text-drop.com**: holochain proof of concept app where you can securely exchange api keys and passwords. Disappearing messages. All open source on holochain. No tracking.
-- **nftfloorprice**: Utility that scrapes floor prices from opensea every 5 mins. Also a portfolio tracker that tracks your NFTs and displays the value of your portfolio.
+- ✅**nftfloorprice**: Utility that scrapes floor prices from opensea every 5 mins. Also a portfolio tracker that tracks your NFTs and displays the value of your portfolio.
 - **NUMBERSNFTS**: 10'000 unique NFTs, each one is a number in the range of 0 to 999. Most of them have blue background with a white Number (in painting style). Some special Numbers are more rare (e.g. 0-10, 1000, 9999 etc). Every number is also a utility, you can set the content of a 100kx100x pixel grid on numbersnft.com. "free" advertising. Similar to the idea of one guy that sold pixels on his website.
 - **IamCryptoRich or BurnBitcoin**: build an app that allows bitcoin holders to burn bitcoin and get a proof of burn (rewarded with a cryptogrtaphical proof and maybe a badge or similar? Marketing: the more btc we burn, the higher the price gets. A small percentage of the burn is send to developer address? 1%. Donate bitcoin to the community. I am rich crypo version. I destroyed X bitcoin. Send us your shitcoins, and once they become valuable, at least you can claim that you "burned" this or that coin. Or: Bitcoin Burner NFT. Buy NFT from our smart contract for 1 BTC (+1% commission fee), then you get an NFT that says "I burned 1 Bitcoin". Bitcoin Burner NFT. Website welche alle Burner listed. We burned xyz bitcoins. Or: Xyz bitcoins were burned with Burn Bitcoin NFT.
 - **I own 1 Bitcoin NFT**: instead of burning the bitcoin, simply wrap the bitcoin in an NFT and make it redeemable. Destroy NFT when redeemeing the wrapped bitcoin.
 - **setupyourholoport**: dictionary for all ressources to setup your holoport, since they are distributed all around the web. Start with notion page.
 - **nft galery**: website builder to create your own NFT galery. Verify with metamask. Chose different templates. Maybe a plugin for SANDBOX to create your own SANDBOX galery (if that is even possible)?
 - **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
-- **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shitting them down.
+- **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shutting them down.
+- **NFT subscription service**: get every month a selection of 1-5 NFTs.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
