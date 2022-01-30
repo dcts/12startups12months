@@ -18,7 +18,8 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **publish your netflix series**: a fake neftlix website where you can upload your own videos and descriptions and share a public link with ur friends, so it looks like your fake content is an actual netflix series. To use as a joke only.
 
 # UTILITY FOR MYSELF
-- **TrackYourLife**: Define custom goals and track their progression (habbit forming)
+- **TrackYourLife**: Define custom goals and track their progression (habbit forming).
+- **Meal Prep / Food Calculator**: fast way of tracking your meals.
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
 - **TypeWriter App**: keybr for audible or podcasts. increase productivity while typing your favorite book. That way you learn to type really fast and also learn interesting stuff. Monetization through e book purchases? MVP with public articles that you can write or interviews with inspirational people.
 - **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
