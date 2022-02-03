@@ -99,3 +99,7 @@ ISOWeek.endDate(weekId) // =>
 - **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
 - **design month**: UX / UI, learn Figma.
 - **blockchain month**: Solidity, Rust, Holochain
+
+# Stackoverflow Questions to self answer
+- apple mapkit js missing a lot of easy documentation
+- detect stealth plugin puppeteer
