@@ -3,6 +3,11 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 ## Joke Ideas
 - **Twitter hexagon profile pic generator** including banner, creates a banner and hexagonal profile pic such that it looks as if you are a fancy NFT holder.
+- **Funny Open Petition**: like openPetition.de, but less serious. You can submit "joke" submissions, and people on twitter can join that petition (and retweet). Examples:
+  1. "Can we stop calling algorithmically generated NFT projects 'art'"
+  2. "Petition to reduce ethereum gas fees"
+  3. "Upload a picture of bernie sanders to the ethereum blockchain - estimated cost: 1 million USD"
+
 ## Ideas
 - **GifStory**: create a story out of Gif's and add text, stickers and and emojis (similar to instagram functionality, maybe upload own images as well?). Allow for multiple pages (like a slideshow). Then make it easily shareable with a public link (expires in X days). PRO feature: pay 5$ per month: unlimited slides. Never expires. Templates.
 - **ChooseMyStartup.com**: plattform that is a notebook for all your ideas and anyone can rate and comment them and signup if they would use it. Login through magic link. You can tag them. To find out what great ideas are. This allows you also to phrase your ideas and formulate them. Spend some time on evaluating them before presenting them to friends or strangers. PRO Features: add custom link: ChooseMyStartup.com/thomas + mobile version + Private Ideas.
