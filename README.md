@@ -83,7 +83,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
 - **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shutting them down.
 - **NFT subscription service**: get every month a selection of 1-5 NFTs.
-- **WAGMI Banners**: showcase your NFTs and export as banner! Example:
+- **WAGMI Banners**: showcase your NFTs and export as banner! Example1 (deadfellaz, 130 banners made):https://twitter.com/xEnoial/status/1500730878292807684/photo/1 Example2: https://twitter.com/TribesNFT/status/1501173886662193152
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
 
