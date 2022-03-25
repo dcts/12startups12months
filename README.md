@@ -103,6 +103,7 @@ ISOWeek.startDate(weekId) // =>
 ISOWeek.endDate(weekId) // =>
 ```
 - **Crypto Donation Component**: Component (in react and lit-html) where you can input crypto addresses and it automatically generates QR code and a nice donations UI, see here: https://nftfloorprice.info/donate
+- **React Animating Blob**: turn this codepen into a react component: https://codepen.io/dcts-the-decoder/pen/BaJpgWd
 
 # OTHER EXPLORATIONS
 - **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
