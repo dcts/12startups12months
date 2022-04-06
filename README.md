@@ -66,7 +66,11 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Facebook Data Leak Checker**: find out who of your contacts is affected by the facebook data leak and inform them. Because facebook won't inform its users.
 - **PrivacyNow**: setup anonymity on the internet -> organize a hackathon. How to delete all data and create pseudonyms. + prove to people who I am by providing a signed message with the private key of the publically availible key on my pseudonym website.
 - **GoodAdvertise**: Advertising works by repetition. But the advertiser's interests are not aligned with the user being served the adds. Imagine what positive impact one could have when you would get advertisment for stuff that is actually beneficial to you instead of random stuff corporations want to sell you in order to maximize profits. Example: Imagine how exciting it would be to get adds that show how running or meditation is beneficial to your health. And you get those adds all the time. This would rewire your brain for new patterns and would truly benefit the person seeing the add. GoodAdvertise is a service that plays you randomly adds that you yourself create (shold be a google extension?)
+- **Visualize your Values**: It's important to know yourself and be aware of your core values. To help become who you want to become, launch a tool that creates phone backgrounds that visualize your values in a beautiful way. That way you keep reminded about your inner core every day, and hopefully, help you strive for what you aim for. Similar that the **GoodAdvertise** idea
+
 # CRYPTO RELATED
+- **WAGMI Banners**: showcase your NFTs and export as banner! Example1 (deadfellaz, 130 banners made):https://twitter.com/xEnoial/status/1500730878292807684/photo/1 Example2: https://twitter.com/TribesNFT/status/1501173886662193152
+- **KLOUD NFT MUSIC EXPLORER**: We Are Kloud random NFT music player to explore KLOUD NFTs.
 - **bitcoin proof ownership proof**: A service that allows people to sign a message to proof that they own the private key of a given bitcoin address, effectively prooving that they own the bitcoin stored in that address.
   - 2 sided marketplace: Validate Proof / Generate Proof
   - Search Keywords in google: digital+signature+bitcoin, proof+ownership+of+bitcoin+address, example: https://news.bitcoin.com/how-to-prove-ownership-with-a-bitcoin-cash-address-and-digital-signature/#:~:text=The%20Bitcoin%20Cash%20Blockchain%20and%20Notarized%20Proof&text=With%20a%20private%20key%2C%20an,proves%20ownership%20of%20the%20address.,
@@ -83,7 +87,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
 - **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shutting them down.
 - **NFT subscription service**: get every month a selection of 1-5 NFTs.
-- **WAGMI Banners**: showcase your NFTs and export as banner! Example1 (deadfellaz, 130 banners made):https://twitter.com/xEnoial/status/1500730878292807684/photo/1 Example2: https://twitter.com/TribesNFT/status/1501173886662193152
+
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
 
