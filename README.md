@@ -26,6 +26,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 # UTILITY FOR MYSELF
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming).
+- **Food Diary Telegram Bot**: Send photos to bot, bot will take the timestamp and put it in a nice dashboard, where at the end of the day you can go through them and add calories/protein of the meal.
 - **Meal Prep / Food Calculator**: fast way of tracking your meals.
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
 - **TypeWriter App**: keybr for audible or podcasts. increase productivity while typing your favorite book. That way you learn to type really fast and also learn interesting stuff. Monetization through e book purchases? MVP with public articles that you can write or interviews with inspirational people.
