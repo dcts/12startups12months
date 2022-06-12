@@ -43,6 +43,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **OpenSource Tetris Effect Clone**: With custom music from local artists (to have similar atmosphere). Playable in the browser for free. Controll with iphone or keyboard.
 - **Cooperatris**: Tetris 2P multiplayer game where 2 player work together (blocks meet in the middle). Mic connection to coordinate and cooperate. Main reserach intent: is is possible to build a game where the only way of winning is cooperation without harming others.
 - **NFT Price Guesser**: Game that shows you an NFT and 3 opions what the current value of that NFT is, you can choose between 4 answers.
+- **old games in the browser**: play old classic games in the browser, by porting the full game to WASM. Similar to: DOOM3 => http://www.continuation-labs.com/projects/d3wasm/. (NOTE: I really don't think this project would makes sense economically. Getting licences, then rewriting code just to serve on the web, for a small target audience. But fun for sure).
 
 # SHOWCASE PRODUCTS
 - **Filedrop.com**: A website that lets you drop anything from your computer to your phone (Text, Links, Media). Generates QR code to scan. Stores the data on the server for a short period of time. Domain already in use.
