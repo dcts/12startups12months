@@ -45,6 +45,13 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **NFT Price Guesser**: Game that shows you an NFT and 3 opions what the current value of that NFT is, you can choose between 4 answers.
 - **old games in the browser**: play old classic games in the browser, by porting the full game to WASM. Similar to: DOOM3 => http://www.continuation-labs.com/projects/d3wasm/. (NOTE: I really don't think this project would makes sense economically. Getting licences, then rewriting code just to serve on the web, for a small target audience. But fun for sure).
 
+# Fun Terminal Games
+- **connect4** => 2 player p2p game!
+- **blackjack-cli** => already implemented: github.com/dcts/blackjack-cli
+- **greed** => you can consume. [link](https://www.howtogeek.com/791146/linux-terminal-games/#Greed)[greed source code](http://www.catb.org/~esr/greed/)
+- **tik tak toe** => easier to implement
+- idea gathering: https://www.howtogeek.com/791146/linux-terminal-games
+
 # SHOWCASE PRODUCTS
 - **Filedrop.com**: A website that lets you drop anything from your computer to your phone (Text, Links, Media). Generates QR code to scan. Stores the data on the server for a short period of time. Domain already in use.
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
