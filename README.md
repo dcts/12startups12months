@@ -65,6 +65,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Holo Ghosts**: CryptoKitties clone on Holochain.
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink? small percentage of all locked up funds go to the developer (me).
 # CREATIVITY / ARTSY
+- **DJ Visualize Tool**: tool for DJs to quickly generate beautiful visuals, using swarm algorithms, music detection and liquid simulation. (1) add your preferences, then detect music and autogenerate, (2) or manually control the visuals by drawing on your phone, which then adds the visualization to the big screen. (3) let audience connect and be part of the performanc (somehow).
 - **Code 2 Poster**: link your github repo, we make a poster out of it. Similar to Bitcoin Whitepaper Poster.
 - **SwarmBrush**: Tool (maybe extension to photoshop) that lets you draw using swarm algorithms to enhace creativity
 - **NFT ticket art show**: sell tickets as nfts, and each NFT is a playable character in an immersive VR experience. The game is backed by some ethereum so the winner gets a price.
