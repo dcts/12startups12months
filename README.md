@@ -59,21 +59,25 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
 - **ubuntu color picker**: same question as with the emoji picker. Can we write a native desktop app that accesses the screens information?
 - **ubuntu emoji picker electron app**: as sideproject. Is it possible to write a emoji picker that opens where the mouse is and writes the emoji to the clipboard?
+
 # TECHNICALLY DIFFICULT
 - **SteerYourPcByGestures**: API to use hand gestures or audio commands to steer your computer. Build with lobe or teachable machine. MVP: for youtube? Maybe extension?
 - **NFT Framework**: NFT token framework that lets people buy "stocks" of a private person (content creator) or band etc. The address holding the NFT token can then sign a message and get access to specials offered by that band. Usecase: a band sells 10 NFTs that allow the holder to always get into a live gig. A hype could build up whats the next big band and people could speculate on the future success of bands.
 - **Holo Ghosts**: CryptoKitties clone on Holochain.
 - **CalledItBtcPricePredictionBet**: Game to predict the next ATM of BTC. Designed as smart contract with oracle chainlink? small percentage of all locked up funds go to the developer (me).
+
 # CREATIVITY / ARTSY
 - **DJ Visualize Tool**: tool for DJs to quickly generate beautiful visuals, using swarm algorithms, music detection and liquid simulation. (1) add your preferences, then detect music and autogenerate, (2) or manually control the visuals by drawing on your phone, which then adds the visualization to the big screen. (3) let audience connect and be part of the performanc (somehow).
 - **Code 2 Poster**: link your github repo, we make a poster out of it. Similar to Bitcoin Whitepaper Poster.
 - **SwarmBrush**: Tool (maybe extension to photoshop) that lets you draw using swarm algorithms to enhace creativity
 - **NFT ticket art show**: sell tickets as nfts, and each NFT is a playable character in an immersive VR experience. The game is backed by some ethereum so the winner gets a price.
+
 # EXTENSIONS
 - **Scam Comment Remover**: flags youtube comments of poeple having same name than the creator, because they are often impersonated.
 - **Comment Wall**: browser extension that lets you post comments on any website. All comments are public and users can upvote/downvote comments. Think of it as a reddit thread for every single webpage. To consume content and for private notes you do not need to pay, but if you want to publically post stuff you need to pay a fee on 10$ to prevent bot armies.
 - **JS runner**: browser extension that lets you run your own javascript. You can post your code with descriptiuon. For example: "avoid medium popups", or: "scrape instagram pictures" etc...
 - **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings.
+
 # Privacy
 - **Facebook Data Leak Checker**: find out who of your contacts is affected by the facebook data leak and inform them. Because facebook won't inform its users.
 - **PrivacyNow**: setup anonymity on the internet -> organize a hackathon. How to delete all data and create pseudonyms. + prove to people who I am by providing a signed message with the private key of the publically availible key on my pseudonym website.
@@ -102,6 +106,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
+- **Psychology Questionaires**: startup to digitalize psychology questionaires, that usually are very expensive. Instead of purchasing physical paper, you can buy licenses and download an app where the flow is fully integrated! Example Psychology Test: SCID (Structured Clinical Interview for DSM Disorders). 
 
 # Code related
 - **pushNotifyCapture**: zapier style integration of web push notifications. (1) Listen and collect all push notifications (2) create actions when a push notification gets triggered => send email, send whatsapp, send SMS, send slack message, send discord etc. MyPersonalUsecase => when a new appartment gets published, immediately send a SMS. (Maybe solvable through push notification enabling on the phone?). Relevant: https://stackoverflow.com/questions/15949606/how-can-i-listen-to-notifications
@@ -133,3 +138,12 @@ ISOWeek.endDate(weekId) // =>
 # Stackoverflow Questions to self answer
 - apple mapkit js missing a lot of easy documentation
 - detect stealth plugin puppeteer
+
+# DESIGN PROJECTS
+- redesign and build website for
+  - holochain.org + holo.host
+  - bbb-basel.ch
+  - Rodrigo African Catering Basel
+- Cocktail recipe app for professional barkeepers (contact Chloe Merz)
+
+
