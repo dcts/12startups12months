@@ -106,7 +106,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 # Business Idea
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
-- **Psychology Questionaires**: startup to digitalize psychology questionaires, that usually are very expensive. Instead of purchasing physical paper, you can buy licenses and download an app where the flow is fully integrated! Example Psychology Test: SCID (Structured Clinical Interview for DSM Disorders). 
+- **Psychology Questionaires**: startup to digitalize psychology questionaires, that usually are very expensive. Instead of purchasing physical paper, you can buy licenses and download an app where the flow is fully integrated! Example Psychology Test: SCID (Structured Clinical Interview for DSM Disorders). See: https://www.klenico.com
 
 # Code related
 - **pushNotifyCapture**: zapier style integration of web push notifications. (1) Listen and collect all push notifications (2) create actions when a push notification gets triggered => send email, send whatsapp, send SMS, send slack message, send discord etc. MyPersonalUsecase => when a new appartment gets published, immediately send a SMS. (Maybe solvable through push notification enabling on the phone?). Relevant: https://stackoverflow.com/questions/15949606/how-can-i-listen-to-notifications
