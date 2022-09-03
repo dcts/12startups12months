@@ -27,6 +27,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **publish your netflix series**: a fake neftlix website where you can upload your own videos and descriptions and share a public link with ur friends, so it looks like your fake content is an actual netflix series. To use as a joke only.
 
 # UTILITY FOR MYSELF
+- **Self Hosted Notion Alternative**: Build a notion alternative that works on a local folder structure on your local file system (and can be backed up with any cloud hosting provider like dropbox or google cloud, or your very own cloud).
 - **TrackYourLife**: Define custom goals and track their progression (habbit forming).
 - **Food Diary Telegram Bot**: Send photos to bot, bot will take the timestamp and put it in a nice dashboard, where at the end of the day you can go through them and add calories/protein of the meal.
 - **Meal Prep / Food Calculator**: fast way of tracking your meals.
