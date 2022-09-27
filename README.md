@@ -128,6 +128,8 @@ ISOWeek.endDate(weekId) // =>
 ```
 - **Crypto Donation Component**: Component (in react and lit-html) where you can input crypto addresses and it automatically generates QR code and a nice donations UI, see here: https://nftfloorprice.info/donate
 - **React Animating Blob**: turn this codepen into a react component: https://codepen.io/dcts-the-decoder/pen/BaJpgWd
+- **Autocomplete Showcase**: build a search autocomplete prediction website, that stores all queries that were run, and then updates bayes probabilities on queries to predict what most likely is going to be searched for, and then display those most likely queries to the user. Let the user "retrain" the model.
+
 
 # OTHER EXPLORATIONS
 - **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
