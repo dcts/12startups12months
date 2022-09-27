@@ -59,6 +59,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Dashboardly**: Just my custom library of webcomponents to buid dashboards (Ceps DB panel, liist-web)
 - **ubuntu color picker**: same question as with the emoji picker. Can we write a native desktop app that accesses the screens information?
 - **ubuntu emoji picker electron app**: as sideproject. Is it possible to write a emoji picker that opens where the mouse is and writes the emoji to the clipboard?
+- **Autocomplete Showcase**: build a search autocomplete prediction website, that stores all queries that were run, and then updates bayes probabilities on queries to predict what most likely is going to be searched for, and then display those most likely queries to the user. Let the user "retrain" the model.
 
 # TECHNICALLY DIFFICULT
 - **SteerYourPcByGestures**: API to use hand gestures or audio commands to steer your computer. Build with lobe or teachable machine. MVP: for youtube? Maybe extension?
@@ -128,8 +129,6 @@ ISOWeek.endDate(weekId) // =>
 ```
 - **Crypto Donation Component**: Component (in react and lit-html) where you can input crypto addresses and it automatically generates QR code and a nice donations UI, see here: https://nftfloorprice.info/donate
 - **React Animating Blob**: turn this codepen into a react component: https://codepen.io/dcts-the-decoder/pen/BaJpgWd
-- **Autocomplete Showcase**: build a search autocomplete prediction website, that stores all queries that were run, and then updates bayes probabilities on queries to predict what most likely is going to be searched for, and then display those most likely queries to the user. Let the user "retrain" the model.
-
 
 # OTHER EXPLORATIONS
 - **chess month**: how far can one go when learning chess fulltime for 1 month? Document journey.
