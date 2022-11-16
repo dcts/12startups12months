@@ -27,6 +27,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **publish your netflix series**: a fake neftlix website where you can upload your own videos and descriptions and share a public link with ur friends, so it looks like your fake content is an actual netflix series. To use as a joke only.
 
 # UTILITY FOR MYSELF
+- **bitcoin plates**: Website that lets user gather all knowlege and material to create their very own (and cheap) bitcoin and ethereum private wallets. Explain BIP39 mnemotic phrase as well as link resources from amazon to buy metal plates. Only accept donations.
 - **Interior Sketcher**: Online app to draw your room, then visualize it in 3D. You can import all furniture from Ikea by default. Questions to research: 1. Did really no one build this? 2- Why does Ikea not have it? 3. Am I the only one that wants to visualize the room (maybe there is no demand?)
 - **Self Hosted Dropbox**: Buy your own server that you can run at home. Periodically can be backed up to a cloud hosting solution like google cloud or AWS, but the data is encrypted, such that your data is not usable without your encryption key. That way privacy is enabled, but you can still profit from robustness of big cloud providers without leaking and exposing your data and privacy.
 - **Self Hosted Notion Alternative**: Build a notion alternative that works on a local folder structure on your local file system (and can be backed up with any cloud hosting provider like dropbox or google cloud, or your very own cloud).
