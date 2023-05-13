@@ -8,6 +8,11 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
   2. "Petition to reduce ethereum gas fees"
   3. "Upload a picture of bernie sanders to the ethereum blockchain - estimated cost: 1 million USD"
 
+## LLM Apps
+- Calories counter where you input the things you ate, ChatGPT puts it in a spreadsheet for you.
+- **SpeakToCode**: Create code by talking to your computer, no typing needed. __PROBLEM__: sometimes you have an idea to program something, but no laptop available. Or you lie in bed and think about a specific code implementation, but are too lazy to get up and grab your computer.
+__Solution__: Speak to code! A simple webapp that lets you create a full codebase from scratch simply by talking to it. You start with an empty git repo, and each prompt will be transformed into a pull request, which you can accept, decline or modify.
+
 ## Ideas
 - **Quick-ToDo** or **Fast-ToDo**: create simple todo list on the desktop, then open on mobile by scanning as qr code. Lists are persistant for short time only (1-4 weeks maybe?). If you need a shareble todolist without the burden of downloading an app.
 - **Decide-Now** or **quick-poll** or **fast-poll**: tired of group fatigue decision processes? Create a simple poll to help you and your group make a decision. Quick-Poll creator. Similar to: poll-maker.com. But with a bit different feature: => (1) no annonymous votes, (2) insert name and see who voted what (similar to doogle). Design inspos: Doodle, twitter polls, facebook polls.
