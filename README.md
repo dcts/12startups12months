@@ -1,6 +1,9 @@
 # 12 startups in 12 months
 Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
+## AI related
+- **AI code tutor**: Interface for chatGPT that acts as a coding teacher (probably already implemented a hundred times by now).
+
 ## Joke Ideas
 - **Twitter hexagon profile pic generator** including banner, creates a banner and hexagonal profile pic such that it looks as if you are a fancy NFT holder.
 - **Funny Open Petition**: like openPetition.de, but less serious. You can submit "joke" submissions, and people on twitter can join that petition (and retweet). Examples:
