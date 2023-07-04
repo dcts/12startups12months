@@ -2,7 +2,7 @@
 Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
 ## AI related
-- **AI code tutor**: Interface for chatGPT that acts as a coding teacher (probably already implemented a hundred times by now).
+
 
 ## Joke Ideas
 - **Twitter hexagon profile pic generator** including banner, creates a banner and hexagonal profile pic such that it looks as if you are a fancy NFT holder.
@@ -11,9 +11,11 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
   2. "Petition to reduce ethereum gas fees"
   3. "Upload a picture of bernie sanders to the ethereum blockchain - estimated cost: 1 million USD"
 
-## LLM Apps
-- Calories counter where you input the things you ate, ChatGPT puts it in a spreadsheet for you.
+## AI / LLM Apps
+- **AI code tutor**: Interface for chatGPT that acts as a coding teacher (probably already implemented a hundred times by now).
 - **SpeakToCode**: Create code by talking to your computer, no typing needed. __PROBLEM__: sometimes you have an idea to program something, but no laptop available. Or you lie in bed and think about a specific code implementation, but are too lazy to get up and grab your computer.
+- **AI Journal**: a personal diary automatically created for you. What did you do this day, adds automatically some images etc. Story about your day.
+- Calories counter where you input the things you ate, ChatGPT puts it in a spreadsheet for you.
 __Solution__: Speak to code! A simple webapp that lets you create a full codebase from scratch simply by talking to it. You start with an empty git repo, and each prompt will be transformed into a pull request, which you can accept, decline or modify.
 
 ## Ideas
