@@ -131,6 +131,7 @@ __Solution__: Speak to code! A simple webapp that lets you create a full codebas
 - **NFT subscription service**: get every month a selection of 1-5 NFTs.
 
 # Business Idea
+- **HostYourWebProducts**: Have you ever sunsettet a product you build, and wanted to keep a minimal example alive as showoff in your portfolio? Don't worry, with this product you can post a URL, then the site is copied and stored for you on your profile. Think of it as Wayback Machine but for your tiny projects. Database is not copied though. But you can showcase it with either hardcoded data or no data at all (just frontend).
 - **Rustbootcamp.com**: Open Source rust bootcamp in lewagon style, with "lecture", excercises (with tests) and flashcards. 10 sessions to master rust. Introduction and theory / concept as well as 1 or 2 projects. Target people interested in holochain.
 - **Psychology Questionaires**: startup to digitalize psychology questionaires, that usually are very expensive. Instead of purchasing physical paper, you can buy licenses and download an app where the flow is fully integrated! Example Psychology Test: SCID (Structured Clinical Interview for DSM Disorders). See: https://www.klenico.com
 - **Baby Diary**: app for parents to track memories (diary) of their children and keep important documents digitalized. Free app, monetization by shipping pphysical foto album of your child. (ALready exists: https://www.babydiariesapp.com/) (Dribble concept by conceptzilla: https://dribbble.com/shots/17571451-Baby-Diary-App-Concept)
