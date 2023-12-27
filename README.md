@@ -5,6 +5,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **AI affi**: AI generated affirmations app, that generates music, affirmations, voice via AI tech. You could even upload your own voice so the affirmations are in your own voice.
 
 ## Joke Ideas
+- **Scratch Game**: online grid with random colored pixels. Under the pixel grid lies an image (the reward). When you click two pixels with the same color, the pixels disappear, showing the underlying image. Once the image is fully free there is a confetti pop effect.
 - **Twitter hexagon profile pic generator** including banner, creates a banner and hexagonal profile pic such that it looks as if you are a fancy NFT holder.
 - **Funny Open Petition**: like openPetition.de, but less serious. You can submit "joke" submissions, and people on twitter can join that petition (and retweet). Examples:
   1. "Can we stop calling algorithmically generated NFT projects 'art'"
