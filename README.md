@@ -14,10 +14,10 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 
 ## AI / LLM Apps
 - **AI code tutor**: Interface for chatGPT that acts as a coding teacher (probably already implemented a hundred times by now).
-- **SpeakToCode**: Create code by talking to your computer, no typing needed. __PROBLEM__: sometimes you have an idea to program something, but no laptop available. Or you lie in bed and think about a specific code implementation, but are too lazy to get up and grab your computer.
+- **SpeakToCode**: Create code by talking to your computer, no typing needed. __PROBLEM__: sometimes you have an idea to program something, but no laptop available. Or you lie in bed and think about a specific code implementation, but are too lazy to get up and grab your computer. __Solution__: Speak to code! A simple webapp that lets you create a full codebase from scratch simply by talking to it. You start with an empty git repo, and each prompt will be transformed into a pull request, which you can accept, decline or modify.
 - **AI Journal**: a personal diary automatically created for you. What did you do this day, adds automatically some images etc. Story about your day.
 - Calories counter where you input the things you ate, ChatGPT puts it in a spreadsheet for you.
-__Solution__: Speak to code! A simple webapp that lets you create a full codebase from scratch simply by talking to it. You start with an empty git repo, and each prompt will be transformed into a pull request, which you can accept, decline or modify.
+- **AI Fitness Coach**: Helps you count your calories. Discusses your daily/weekly progress. Randomly sends message in case you are not up with your goal. Helps you make good decisions and encourages you to stay focused. When you are tempted, you can talk to your coach and he/she will try to motivate you.
 
 ## Ideas
 - **Discord but without login: BurnerChat / BurnerSpaces**: Need discord or slack to communicate during an event but don't want to create a new workspace? BurnerSpaces can help. No login, no registration, just a simple url. The server is similar to slack or discord, but has the huge advantage that it can be run completely without login. Credentials are stored in the cookies / locally.
