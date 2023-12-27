@@ -103,7 +103,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Scam Comment Remover**: flags youtube comments of poeple having same name than the creator, because they are often impersonated.
 - **Comment Wall**: browser extension that lets you post comments on any website. All comments are public and users can upvote/downvote comments. Think of it as a reddit thread for every single webpage. To consume content and for private notes you do not need to pay, but if you want to publically post stuff you need to pay a fee on 10$ to prevent bot armies.
 - **JS runner**: browser extension that lets you run your own javascript. You can post your code with descriptiuon. For example: "avoid medium popups", or: "scrape instagram pictures" etc...
-- **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings.
+- **PrivateCookieAccepter**: Extension that automatically accepts the most private cookie settings on all those stupid GDPR cookie settings. The tool is now actually doable by using chatGPT or other LLMs!
 
 # Privacy
 - **Facebook Data Leak Checker**: find out who of your contacts is affected by the facebook data leak and inform them. Because facebook won't inform its users.
