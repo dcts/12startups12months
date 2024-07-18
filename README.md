@@ -114,6 +114,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Visualize your Values**: It's important to know yourself and be aware of your core values. To help become who you want to become, launch a tool that creates phone backgrounds that visualize your values in a beautiful way. That way you keep reminded about your inner core every day, and hopefully, help you strive for what you aim for. Similar that the **GoodAdvertise** idea
 
 # CRYPTO RELATED
+- **The Great Investment Fund**: Scam prevention website! Full details here: https://ductus.notion.site/Side-Projekt-Idea-The-great-Investor-e1760510759947ca848c6a63e935daa7
 - **WAGMI Banners**: showcase your NFTs and export as banner! Example1 (deadfellaz, 130 banners made):https://twitter.com/xEnoial/status/1500730878292807684/photo/1 Example2: https://twitter.com/TribesNFT/status/1501173886662193152
 - **KLOUD NFT MUSIC EXPLORER**: We Are Kloud random NFT music player to explore KLOUD NFTs.
 - **bitcoin proof ownership proof**: A service that allows people to sign a message to proof that they own the private key of a given bitcoin address, effectively prooving that they own the bitcoin stored in that address.
