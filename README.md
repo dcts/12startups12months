@@ -134,6 +134,9 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **crypto address notes**: take personal notes on any crypto address (for example track all your addresses in one place, take notes on addresses you sent money to and link directly to etherscan or opensea account).
 - **StackOverflow Buddies**: teamup with your programmer friends to coordinate and upvote your questions easily to prevent shutting them down.
 - **NFT subscription service**: get every month a selection of 1-5 NFTs.
+- **Affi but for crypto investors**: input your wallet, AI reads your wins/losses, and creates custom affirmations for your wallet, to stay positive in the bullmarket.
+- **ravecat.app**: Artist launchpad: Create your artist token in minutes, connect with fans, open up to crypto market.
+- **AI artist on chain**: token holders get to shape future of artist
 
 # Business Idea
 - **HostYourWebProducts**: Have you ever sunsettet a product you build, and wanted to keep a minimal example alive as showoff in your portfolio? Don't worry, with this product you can post a URL, then the site is copied and stored for you on your profile. Think of it as Wayback Machine but for your tiny projects. Database is not copied though. But you can showcase it with either hardcoded data or no data at all (just frontend).
