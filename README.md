@@ -1,6 +1,9 @@
 # 12 startups in 12 months
 Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
+## Vibe code ideas
+- **Base Jumper**: Simple game where you can jump out of a plane, and enjoy beautiful landscapes. Your goal is to land on a prefedined circle. 
+
 ## AI related
 - **AI affi**: AI generated affirmations app, that generates music, affirmations, voice via AI tech. You could even upload your own voice so the affirmations are in your own voice.
 - **Menu image generator**: you are a visual person but the menu on your favorite website has no image? Worry not, menu ai Image gen is here to help. Its an extension where you can simply activate when you want to generate images of dishes based on a text only description.
