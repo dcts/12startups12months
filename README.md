@@ -1,7 +1,7 @@
 # 12 startups in 12 months
 Repo to brainstorm potential products to build as a challenge or within 1 month. Repo just cointains Notes.
 
-## Vibe code ideas
+## Vibe Code Ideas
 - **Base Jumper**: Simple game where you can jump out of a plane, and enjoy beautiful landscapes. Your goal is to land on a prefedined circle. 
 
 ## AI related
@@ -44,6 +44,7 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **music NFT**: you are an artist. You create a single NFT that represents a song. Only the holder of this NFT can listen to your song. Then people can "line up" to purchase the NFT to listen to the song, and then sell it to the next person. When you buy, you know for sure that there is another person after you which will buy the piece to listen to. Smart contract ensures that you can buy and sell for the same price within a given amount of time. The last person keeps the NFT in perpituety. The nft is passed along, and every time the nft is changing "hands" the creator/artist gets a fee. The time you can hold and listen to the song is very limited. E.g. you line up and then you are assigned a specific time the NFT will be in your possesion and then you can play/listen the song. Flawed idea since when people will listen they will probably record and republish it. Or is there a way to ENSURE (with zero knowledge proof?) that sound is not recorded? Probably not. Definately not. Stupid idea. Needs improvement.
 
 # UTILITY FOR MYSELF
+- **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login). --> cryptofa.st --> use https://cryptoprices.cc/ API to create your personal watchlist --> store in URL --> PWA --> you can also add one or more portfolios in query params.
 - **Calendly Free**: Free and loginless app that lets you coordinate among a lot of participants (e.g. show options, then cast votes for your favorite option)
 - **document generator**: webapp with figma style UI that helps you build documents (anträge). You can assemble your documents. Scan documents with your phone (the picture will be directly uploaded onto the desktop, no need to export from your phone). Other functions contain: sign (add signature), add text, paint, upload and store documents (passports, etc).
 - **bitcoin plates**: Website that lets user gather all knowlege and material to create their very own (and cheap) bitcoin and ethereum private wallets. Explain BIP39 mnemotic phrase as well as link resources from amazon to buy metal plates. Only accept donations.
@@ -56,7 +57,6 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 - **Meal Prep / Food Calculator**: fast way of tracking your meals.
 - **Bartender App**: lets you create, manage and share your cocktail recipes. For pasionate bartenders.
 - **TypeWriter App**: keybr for audible or podcasts. increase productivity while typing your favorite book. That way you learn to type really fast and also learn interesting stuff. Monetization through e book purchases? MVP with public articles that you can write or interviews with inspirational people.
-- **Coinrocketapp**: simple cryptocurrency portfolio tracker (PWA, no registration, link as login)
 - **Youtube2Dropbox**: download youtube videos and host them on your dropbox account for offline access with adds removed. Free youtube hack. Medium article on how to [d]ownload videos from youtube](https://medium.com/javascript-in-plain-english/make-your-own-youtube-downloader-626133572429).
 - **MobRun**: For lonely joggers that try to find a community of runners in the area they run / Gamifying the jogging experience by trying to flock groups of people to jogg together. Connecting on the app through real time contact only. OR ANOTHER APPROACH: matches runners that run in the same area and similar pace with each other. Tinder for runners. Upload your data from runtastic or nike+ and get recommendations. Stats are most important.
 - **mediumforcoders.com**: Simple clone of medium.com that supports codeblocks with syntax highlighting.
