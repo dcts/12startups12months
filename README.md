@@ -4,6 +4,24 @@ Repo to brainstorm potential products to build as a challenge or within 1 month.
 ## Vibe Code Ideas
 - **Base Jumper**: Simple game where you can jump out of a plane, and enjoy beautiful landscapes. Your goal is to land on a prefedined circle. 
 
+## Vibe Code Stream
+- "Vibe coding 10 startups in 10 hours" (using lovable.dev):
+  1. Affi app (minimal and frontend only)
+  2. Whatsapp wrapped but for crypto / radix (RADIX)
+  3. Coinrocketapp -> crypto tracker
+  4. META -> blog / landing page that showcases all products nicely
+  5. quick ToDo list temprarily store todo items
+  6. WAGMI banners -> create WAGMI banners for NFT projects
+  7. Landing page for a catering service -> images and assets
+  8. Poker game
+  9. Calorie Tracker App
+  10. AI journal
+  11. BurnerSpaces - Discord but with no login.
+  12. fakeflix - joke netflix movies.
+  13. Banner API - 
+  14. AI fitness coach (Telegram Bot)
+  15. Rakoon fun lock receipt bot
+
 ## AI related
 - **AI affi**: AI generated affirmations app, that generates music, affirmations, voice via AI tech. You could even upload your own voice so the affirmations are in your own voice.
 - **Menu image generator**: you are a visual person but the menu on your favorite website has no image? Worry not, menu ai Image gen is here to help. Its an extension where you can simply activate when you want to generate images of dishes based on a text only description.
